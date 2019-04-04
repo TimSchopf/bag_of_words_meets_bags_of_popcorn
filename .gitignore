@@ -90,6 +90,11 @@ ENV/
 env.bak/
 venv.bak/
 
+# Data
+*.csv
+*.zip
+*.tsv
+
 # Spyder project settings
 .spyderproject
 .spyproject
