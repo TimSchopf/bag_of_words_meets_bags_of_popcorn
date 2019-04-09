@@ -17,3 +17,9 @@ Versions:
 * scikit-learn 0.19.1
 
 In the original Tutorial a dual-core Macbook Pro [Mac Mavericks (10.9)] with Python 2.7 was used and the authors could not run the code successfully on Windows.
+
+## Results
+
+Submissions are judged on [area under the ROC curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+
+Submission Scores: 
