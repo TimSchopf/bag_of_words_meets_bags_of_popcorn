@@ -94,6 +94,7 @@ venv.bak/
 *.csv
 *.zip
 *.tsv
+*.jpg
 
 # Spyder project settings
 .spyderproject
