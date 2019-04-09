@@ -23,3 +23,4 @@ In the original Tutorial a dual-core Macbook Pro [Mac Mavericks (10.9)] with Pyt
 Submissions are judged on [area under the ROC curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
 
 Submission Scores: 
+![Submission_Scores](https://user-images.githubusercontent.com/7964959/55798511-6b832e00-5acf-11e9-92be-33d89da91e45.jpg)
