@@ -4,7 +4,7 @@ In this competition NLP methods are used to predict movie reviews
 
 For data and detailed description visit: https://www.kaggle.com/c/word2vec-nlp-tutorial
 
-The original kaggle code is adapted to a DualCore, 8GB RAM, Windows 7 operating system. In addition, slight performance improvements were made and a updated Python version, as well as updated packages were used. 
+The original kaggle code is adapted to a DualCore, 8GB RAM, Windows 7 operating system. In addition, slight performance improvements were made and a updated Python version, as well as updated libraries were used. 
 
 Versions:
 * Python 3.6.3
@@ -16,7 +16,7 @@ Versions:
 * pandas 0.20.3
 * scikit-learn 0.19.1
 
-In the original Tutorial a dual-core MacBook Pro [Mac Mavericks (10.9)] with Python 2.7 was used and the authors could not run the code successfully on Windows.
+In the original Tutorial a DualCore MacBook Pro [Mac Mavericks (10.9)] with Python 2.7 was used and the authors could not run the code successfully on Windows.
 
 ## Results
 
