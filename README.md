@@ -16,7 +16,7 @@ Versions:
 * pandas 0.20.3
 * scikit-learn 0.19.1
 
-In the original Tutorial a dual-core Macbook Pro [Mac Mavericks (10.9)] with Python 2.7 was used and the authors could not run the code successfully on Windows.
+In the original Tutorial a dual-core MacBook Pro [Mac Mavericks (10.9)] with Python 2.7 was used and the authors could not run the code successfully on Windows.
 
 ## Results
 
